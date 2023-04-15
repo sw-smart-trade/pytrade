@@ -1,0 +1,5 @@
+wget
+pandas
+matplotlib
+fastapi
+uvicorn[standard]
