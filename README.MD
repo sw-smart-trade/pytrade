@@ -8,4 +8,4 @@ source smart/bin/activate
 pip3 install -r requirements.txt
 
 # Running the server:
-uvicorn controller.main:app --reload
+uvicorn main:app --reload
